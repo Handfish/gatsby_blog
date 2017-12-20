@@ -1,0 +1,60 @@
+{
+  "assetsByChunkName": {
+    "path---blog-posts-the-dr-650": [
+      "path---blog-posts-the-dr-650-f3c5f142b3697bfaebd0.js",
+      "path---blog-posts-the-dr-650-f3c5f142b3697bfaebd0.js.map"
+    ],
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-3c067dcb8a942c6896a4.js",
+      "component---src-pages-index-js-3c067dcb8a942c6896a4.js.map"
+    ],
+    "path---": [
+      "path----da1a5a7e4434cd6f03d1.js",
+      "path----da1a5a7e4434cd6f03d1.js.map"
+    ],
+    "component---src-templates-blog-post-js": [
+      "component---src-templates-blog-post-js-b84dc952d929669935d8.js",
+      "component---src-templates-blog-post-js-b84dc952d929669935d8.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-0a69a2b8df4bd08a3b94.js",
+      "component---src-layouts-index-js-0a69a2b8df4bd08a3b94.js.map"
+    ],
+    "path---index": [
+      "path---index-391eab6f0666f100c6f2.js",
+      "path---index-391eab6f0666f100c6f2.js.map"
+    ],
+    "component---src-pages-my-files-js": [
+      "component---src-pages-my-files-js-b0a36c1c44972c0b05f8.js",
+      "component---src-pages-my-files-js-b0a36c1c44972c0b05f8.js.map"
+    ],
+    "path---my-files": [
+      "path---my-files-245a32ac7d6d6375255e.js",
+      "path---my-files-245a32ac7d6d6375255e.js.map"
+    ],
+    "commons": [
+      "commons-c469589cf7698458f3bf.js",
+      "commons-c469589cf7698458f3bf.js.map"
+    ],
+    "app": [
+      "app-99a30590d194be989ff5.js",
+      "app-99a30590d194be989ff5.js.map"
+    ],
+    "path---blog-posts-ui-icing": [
+      "path---blog-posts-ui-icing-f077f47b59195a87c3a3.js",
+      "path---blog-posts-ui-icing-f077f47b59195a87c3a3.js.map"
+    ],
+    "component---src-pages-about-js": [
+      "component---src-pages-about-js-610d87eff2fabb198c4f.js",
+      "component---src-pages-about-js-610d87eff2fabb198c4f.js.map"
+    ],
+    "path---about": [
+      "path---about-313f4c8a51eeb890ad71.js",
+      "path---about-313f4c8a51eeb890ad71.js.map"
+    ],
+    "path---blog-posts-stronglifts": [
+      "path---blog-posts-stronglifts-04a10045c6969c1c9cca.js",
+      "path---blog-posts-stronglifts-04a10045c6969c1c9cca.js.map"
+    ]
+  }
+}

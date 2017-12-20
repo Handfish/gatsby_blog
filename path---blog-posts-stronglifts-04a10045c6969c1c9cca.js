@@ -1,0 +1,2 @@
+webpackJsonp([0xfe0aab0d05c9],{496:function(t,e){t.exports={data:{markdownRemark:{html:'<p>The most effective fitness plan I\'ve come across in my life is Stronglifts 5x5. Nothing as grow my strength at a comparable rate. Check it out, its well documented and super easy to follow.</p>\n<p><a href="http://www.stronglifts.com/5x5">Stronglifts 5x5</a></p>',frontmatter:{title:"Stronglifts 5x5"}}},pathContext:{slug:"/blog-posts/stronglifts/"}}}});
+//# sourceMappingURL=path---blog-posts-stronglifts-04a10045c6969c1c9cca.js.map
